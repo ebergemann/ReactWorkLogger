@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.worklistContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid Black;
+}
+.taskTime {
+  text-align: left;
+  padding-left: 0px;
+  padding-right: 10px;
+}
+
+.totalTime {
+  color: red
+}
